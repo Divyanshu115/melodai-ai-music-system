@@ -1,0 +1,11 @@
+venv310/
+__pycache__/
+outputs_main_service/
+outputs_music_generator/
+backend_cache/
+*.wav
+*.mp3
+.env
+downloads
+downloads.pub
+.streamlit/secrets.toml

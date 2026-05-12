@@ -1,0 +1,11 @@
+{
+  "happy": "upbeat, cheerful, major key, bright instruments, energetic rhythm, positive vibes, {tempo}",
+  "sad": "melancholic, slow tempo, minor key, emotional, piano and strings, reflective, somber mood",
+  "energetic": "high energy, fast-paced, driving beat, intense rhythm, powerful, dynamic, {tempo}",
+  "calm": "soft ambient pads, slow tempo, gentle dynamics, soothing textures, spacious reverb, {tempo}",
+  "romantic": "warm timbre, gentle acoustic instruments, slow tempo, expressive melodies, strings and piano, {tempo}",
+  "mysterious": "low drones, eerie textures, slow evolving pads, sparse rhythms, tension and space, {tempo}",
+  "epic": "cinematic, heroic brass and strings, wide stereo image, strong percussion hits, {tempo}",
+  "lofi": "warm lo-fi tape effect, relaxed beat, soft keys, vinyl texture, steady groove, {tempo}",
+  "default": "well-produced, clear arrangement, balanced dynamics, {tempo}"
+}

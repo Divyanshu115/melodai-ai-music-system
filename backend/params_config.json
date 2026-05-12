@@ -1,0 +1,43 @@
+{
+  "energy_map": {
+    "min_temp": 0.7,
+    "max_temp": 1.3,
+    "min_cfg": 1.5,
+    "max_cfg": 5.0
+  },
+  "mood_defaults": {
+    "happy": {
+      "style": "pop",
+      "tempo": "fast",
+      "instruments": ["drums", "guitar", "synth"]
+    },
+    "sad": {
+      "style": "piano",
+      "tempo": "slow",
+      "instruments": ["piano", "strings"]
+    },
+    "calm": {
+      "style": "ambient",
+      "tempo": "slow",
+      "instruments": ["pads", "soft piano"]
+    },
+    "energetic": {
+      "style": "electronic",
+      "tempo": "fast",
+      "instruments": ["synth", "drums", "bass"]
+    },
+    "romantic": {
+      "style": "acoustic",
+      "tempo": "medium",
+      "instruments": ["guitar", "piano", "strings"]
+    },
+    "mysterious": {
+      "style": "ambient horror",
+      "tempo": "slow",
+      "instruments": ["drones", "pads", "strings"]
+    }
+  },
+  "fade_ms": 1000,
+  "silence_trim_db": -40,
+  "min_silence_len_ms": 200
+}

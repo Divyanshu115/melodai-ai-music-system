@@ -1,0 +1,13 @@
+{
+  "model_name": "facebook/musicgen-small",
+  "default_duration": 6,
+  "default_variations": 1,
+  "default_retries": 3,
+  "outputs_dir": "../outputs_main_service",
+  "openai_api_key_env": "OPENAI_API_KEY",
+  "reference_image": "/mnt/data/f957d385-b1a2-432d-8fbb-7cef8d98d995.png",
+  "logging": {
+    "level": "INFO",
+    "file": "../outputs_main_service/main_service.log"
+  }
+}
