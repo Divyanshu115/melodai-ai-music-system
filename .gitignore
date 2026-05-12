@@ -9,3 +9,5 @@ backend_cache/
 downloads
 downloads.pub
 .streamlit/secrets.toml
+metadata_preview.json
+quality_report_20.json
